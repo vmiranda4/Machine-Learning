@@ -1,1 +1,2 @@
 # Machine-Learning
+Este repositorio contiene los proyectos desarrollados durante el curso _Machine Learning_ dictado durante el segundo semestre de 2024 para el pregrado de Computación Científica en la Universidad de Medellín. Estos proyectos usan modelos supervisados de Machine Learning (de regresión y clasificación), para abordar problemas que suelen encontrarse en las primeras etapas de aprendizaje de Machine Learning.
